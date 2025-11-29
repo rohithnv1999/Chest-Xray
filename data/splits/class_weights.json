@@ -1,0 +1,72 @@
+{
+  "Atelectasis": {
+    "positive": 359,
+    "negative": 3282,
+    "weight": 9.142061281337048
+  },
+  "Cardiomegaly": {
+    "positive": 140,
+    "negative": 3501,
+    "weight": 25.007142857142856
+  },
+  "Consolidation": {
+    "positive": 140,
+    "negative": 3501,
+    "weight": 25.007142857142856
+  },
+  "Edema": {
+    "positive": 62,
+    "negative": 3579,
+    "weight": 57.725806451612904
+  },
+  "Effusion": {
+    "positive": 354,
+    "negative": 3287,
+    "weight": 9.285310734463277
+  },
+  "Emphysema": {
+    "positive": 99,
+    "negative": 3542,
+    "weight": 35.77777777777778
+  },
+  "Fibrosis": {
+    "positive": 121,
+    "negative": 3520,
+    "weight": 29.09090909090909
+  },
+  "Infiltration": {
+    "positive": 597,
+    "negative": 3044,
+    "weight": 5.098827470686767
+  },
+  "Mass": {
+    "positive": 124,
+    "negative": 3517,
+    "weight": 28.362903225806452
+  },
+  "Nodule": {
+    "positive": 136,
+    "negative": 3505,
+    "weight": 25.772058823529413
+  },
+  "Pleural_Thickening": {
+    "positive": 0,
+    "negative": 3641,
+    "weight": 1.0
+  },
+  "Pneumonia": {
+    "positive": 46,
+    "negative": 3595,
+    "weight": 78.15217391304348
+  },
+  "Pneumothorax": {
+    "positive": 156,
+    "negative": 3485,
+    "weight": 22.33974358974359
+  },
+  "No_Finding": {
+    "positive": 2010,
+    "negative": 1631,
+    "weight": 0.8114427860696517
+  }
+}
